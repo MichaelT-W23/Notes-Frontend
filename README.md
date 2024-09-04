@@ -1,5 +1,22 @@
-# Vue 3 + Vite
+# Notes-Frontend
+## [Youtube Video Demo](https://youtu.be/6Qz0yUrn_J0?si=Y0Nrb0AppNFoPoBx)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the frontend for the [Notes-Rest-Api](https://github.com/MichaelT-W23/Notes-Rest-Api) repository. 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+## How this was built
+
+The instructions for how this frontend was built can be found in this [page](https://michaelt-w23.github.io/ForGuy/CompSci/SetupProjects/flask-PostgreSQL) of the ForGuy website.
+
+
+### Technologies Used
+- Vue
+- JavaScript
+- Pinia
+- Jest
+- Git
+- GitHub
+- S3
+- CloudFront
+
+

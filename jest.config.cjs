@@ -1,4 +1,3 @@
-
 module.exports = {
   moduleFileExtensions: ['js', 'json', 'vue'],
   transform: {
@@ -16,4 +15,12 @@ module.exports = {
   testEnvironmentOptions: {
     customExportConditions: ["node", "node-addons"],
  },
+ reporters: [
+  "default", 
+  ["jest-html-reporter", {
+    pageTitle: "Test Report",
+    outputPath: "test-report.html",
+    includeFailureMsg: true,
+    }]
+  ]
 };
